@@ -1,0 +1,4 @@
+Date and time of calling is 2022-10-10 23:32:12.765813 
+Name of function is power_of_nums 
+Arguments of function are (3, 10) and {} 
+Result is 59049
